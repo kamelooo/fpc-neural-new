@@ -281,7 +281,7 @@ False Negatives: 13
 
 ## معلومات المؤلف
 
-**الاسم:** [اسمك]
+**الاسم:** [kamel guizani]
 **التاريخ:** 29 مارس 2026
 **الترخيص:** MIT License
 **مستودع GitHub:** [github.com/kamelooo/neural-network-custom](https://github.com/kamelooo/neural-network-custom)
